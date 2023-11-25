@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lewshubei&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lewshubei&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -64,6 +64,6 @@
 
 ###
 
-<h4 align="left">Assignment 1 :</h4>
+<h4 align="left">Assignment 1 :<br>file:///Users/bei-02/Downloads/Assignment%201%20(Group%202).pdf</h4>
 
 ###
