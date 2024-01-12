@@ -45,6 +45,15 @@
     <td>Assignment 4</td>
     <th><a href="TIS assignment/Assignment 4 - Group2 .pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>PC Assemble(Lab)</td>
+    <th><a href="" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
+  </tr>
 </table>
+
+
+## **Reflections for each assignment**
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
