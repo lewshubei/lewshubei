@@ -28,22 +28,22 @@
   <tr>
     <td>1</td>
     <td>Assignment 1</td>
-    <th><a href="TIS assignment/Assignment 1 (Group 2).pdf" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/Assignment 1 (Group 2).pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Assignment 2</td>
-    <th><a href="lab/Student%20notes/DML1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/Assignment2 - Group2.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Assignment 3</td>
-    <th><a href="lab/Student%20notes/DML2" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/Assignment 3 (Group 2) .pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>Assignment 4</td>
-    <th><a href="lab/Student%20notes/DML3" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/Assignment 4 - Group2 .pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
