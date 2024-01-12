@@ -18,7 +18,34 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lewshubei&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Assignment for Tis
-
+# Tis
+## **Assignment for Tis**
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Assignment</th>
+    <th>File</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Assignment 1</td>
+    <th><a href="lab/Student%20notes/DDL" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Assignment 2</td>
+    <th><a href="lab/Student%20notes/DML1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Assignment 3</td>
+    <th><a href="lab/Student%20notes/DML2" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Assignment 4</td>
+    <th><a href="lab/Student%20notes/DML3" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
