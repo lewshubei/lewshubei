@@ -28,7 +28,7 @@
   <tr>
     <td>1</td>
     <td>Assignment 1</td>
-    <th><a href="lab/Student%20notes/DDL" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/Assignment 1 (Group 2).pdf" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
