@@ -15,10 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=lewshubei&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Tis
+# SECP1513-06 TEKNOLOGI DAN SISTEM MAKLUMAT (TECHNOLOGY AND INFORMATION SYSTEM)
+![](https://marvel-b1-cdn.bc0a.com/f00000000100045/www.elmhurst.edu/wp-content/uploads/2018/12/computer-information-systems-vs-information-technology-illustration.jpg)
 ## **Assignment for Tis**
 <table>
   <tr>
