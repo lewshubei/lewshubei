@@ -54,6 +54,8 @@
 
 
 ## **🤔 Self-Reflections**
+<img width="1129" alt="self-reflection" src="https://github.com/lewshubei/lewshubei/assets/148427985/18a8cbbe-7af4-480b-8002-3424026ac4a8">
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
