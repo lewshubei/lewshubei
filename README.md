@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Future Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Software Engineering at the University of Technology Malaysia <br>🚀 Aspiring Code Artisan | Tech Alchemist ✨<br>🌈 Unleashing the magic of code to transform ideas into reality. Let's create wonders together!<br>💭 Currently learning about java and html
+👩🏻‍💻 Future Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying Software Engineering at the University of Technology Malaysia <br>🚀 Aspiring Code Artisan | Tech Alchemist ✨<br>🌈 Unleashing the magic of code to transform ideas into reality. Let's create wonders together!<br>💭 Currently learning about java and html
 
 
 ## 🌐 Socials:
