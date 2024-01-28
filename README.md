@@ -61,6 +61,8 @@
 ## **🤔 Self-Reflections**
 <img width="1671" alt="Self-Reflection" src="https://github.com/lewshubei/lewshubei/assets/148427985/db9b796a-bd54-4604-8a92-958ec71ada18">
 
+![Black and White Yellow Purple Basic Design Thinking Brainstorm Presentation](https://github.com/lewshubei/lewshubei/assets/148427985/4ec1a92e-f013-47b0-8560-23e8f2cc7e4d)
+
 
 
 
