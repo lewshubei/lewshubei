@@ -53,7 +53,7 @@
   <tr>
     <td>6</td>
     <td>Design Thinking (Low Fidelity Prototype)</td>
-    <th><a href="" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
+    <th><a href="TIS assignment/TIS - Design Thinking（Group 2 -JellyBean）.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/2246/2246713.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
